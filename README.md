@@ -1,7 +1,7 @@
 ## Hi there, I'm [Suman][website]
 
-[<img align="left" alt="sumanbiswas.com" width="140px" src="https://drive.google.com/uc?id=1FeDQNvIeJOdpDfy2JMcj1TI_L_RCNbwm" />][website]
-[<img align="left" alt="sumanbiswas.com" width="70px" src="https://drive.google.com/uc?id=1pooljP8sb_2gKcNKIE2XU7C6MBa8uisB" />][instagram]
+[<img align="left" alt="sumanbiswas.com" width="140px" src="https://drive.google.com/uc?id=1GtwKvzkxAhFDBfRVVIQS5Ka1Q9A7L6Oy" />][website]
+[<img align="left" alt="sumanbiswas.com" width="70px" src="https://drive.google.com/uc?id=1We1sThcOLKGVUjvl_Y6bw-AqJ29mjCFG" />][instagram]
 <br/>
 
 ### I'm a Student and Developer.
@@ -21,14 +21,9 @@
 
 <br />
 
-### Languages and Tools:
+### Technologies :
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="React" width="65px" src="https://www.pikpng.com/pngl/m/597-5977109_html5-logo-png.png" />
+<img align="left" alt="HTML5" width="110px" src="https://drive.google.com/uc?id=1CI89m4ZVMNSm5yRrf3LZgID55JWVosVv" />
 
 <br />
 <br />
