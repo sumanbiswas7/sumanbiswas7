@@ -1,6 +1,8 @@
 ## Hi there, I'm [Suman][website]
 
-[<img align="left" alt="sumanbiswas.com" width="200px" src="https://drive.google.com/uc?id=1FeDQNvIeJOdpDfy2JMcj1TI_L_RCNbwm" />][website]
+<br/>
+[<img align="left" alt="sumanbiswas.com" width="140px" src="https://drive.google.com/uc?id=1FeDQNvIeJOdpDfy2JMcj1TI_L_RCNbwm" />][website]
+[<img align="left" alt="sumanbiswas.com" width="100px" src="https://drive.google.com/uc?id=1pooljP8sb_2gKcNKIE2XU7C6MBa8uisB" />][instagram]
 <br/>
 
 ### I'm a Student and Developer.
