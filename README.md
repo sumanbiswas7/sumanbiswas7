@@ -1,9 +1,5 @@
 ## Hi there, I'm [Suman][website]
 
-[<img align="left" alt="sumanbiswas.com" width="140px" src="https://drive.google.com/uc?id=1GtwKvzkxAhFDBfRVVIQS5Ka1Q9A7L6Oy" />][website]
-[<img align="left" alt="sumanbiswas.com" width="70px" src="https://drive.google.com/uc?id=1We1sThcOLKGVUjvl_Y6bw-AqJ29mjCFG" />][instagram]
-<br/>
-
 ### I'm a Student and Developer.
 
 - Currently learning and developing new skills
