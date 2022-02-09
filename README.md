@@ -7,12 +7,13 @@
 - Fun fact: I love to watch and play football
 - I love photography too
 
-### Connect with me:
+### Connect with me :
 
-- My Website[website]
-- Instagram[instagram]
-- Facebook[facebook]
-<br />
+- [Website][website]
+- [Instagram][instagram]
+- [Facebook][facebook]
+- [Send Message][sendmessage]
+
 
 ### Technologies :
 
@@ -20,11 +21,10 @@
 - Next Js, Typescript
 - React Native
 - HTML, CSS, JS
-
-<br />
 <br />
 
 [website]: https://sumanbiswas.vercel.app/
+[sendmessage]: https://sumanbiswas.vercel.app/contact
 [instagram]: https://instagram.com/sumanbiswas7
 [facebook]: https://www.facebook.com/profile.php?id=100009266254381
 [youtube]: https://www.youtube.com/channel/UCHEga9OnhbdpHrpe72gawQw
