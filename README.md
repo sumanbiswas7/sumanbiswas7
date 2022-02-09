@@ -3,7 +3,7 @@
 ### I'm a Student and Developer.
 
 - Currently learning and developing new skills
-- 2022 Goals: learn GraphQL, Flutter
+- 2022 Goals: learn new technologies
 - Fun fact: I love to watch and play football
 - I love photography too
 
