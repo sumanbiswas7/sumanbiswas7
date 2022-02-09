@@ -19,7 +19,10 @@
 
 ### Technologies :
 
-<img align="left" alt="HTML5" width="110px" src="https://drive.google.com/uc?id=1CI89m4ZVMNSm5yRrf3LZgID55JWVosVv" />
+- React Js
+- Next Js, Typescript
+- React Native
+- HTML, CSS, JS
 
 <br />
 <br />
