@@ -18,7 +18,7 @@
 ### Technologies :
 
 - React Js
-- Next Js, Typescript
+- Next Js, Redux, Typescript
 - React Native
 - HTML, CSS, JS
 <br />
