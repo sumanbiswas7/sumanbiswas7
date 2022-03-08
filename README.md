@@ -9,10 +9,10 @@
 
 ### Connect with me :
 
-- [Website][website]
-- [Instagram][instagram]
-- [Facebook][facebook]
-- [Send Message][sendmessage]
+- [website][website]
+- [instagram][instagram]
+- [facebook][facebook]
+- [send message][sendmessage]
 
 
 ### Technologies :
