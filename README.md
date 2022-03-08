@@ -19,6 +19,8 @@
 
 - React Js
 - Next Js, Redux, Typescript
+- Node JS
+- Rest & GraphQL 
 - React Native
 - HTML, CSS, JS
 <br />
