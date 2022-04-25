@@ -22,6 +22,7 @@
 - Node JS
 - Rest & GraphQL 
 - HTML, CSS, JS
+- JavaScript, Python
 <br />
 
 [website]: https://sumanbiswas.vercel.app/
