@@ -20,6 +20,7 @@
 - React Js, React Native
 - Next Js, Redux, Typescript
 - Node JS
+- MongoDB, PostgresSql
 - Rest & GraphQL 
 - HTML, CSS, JS
 - JavaScript, Python
