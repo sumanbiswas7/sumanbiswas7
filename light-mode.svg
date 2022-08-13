@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="16px">
+<style>
+.ascii{font-size:13px;}
+.keyColor {fill: #953800;}
+.valueColor {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.commentColor {fill: #8b949e;}
+text, tspan {white-space: pre;}
+</style>
+
+<rect width="970px" height="530px" fill="#f6f8fa" rx="15"/>
+
+<text x="30" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="30" y="30">                        iikkkikki          </tspan>  
+<tspan x="30" y="50">                      ikg!!gggggggggi      </tspan>
+<tspan x="30" y="70">                     kg!!!!!!!gg!!ggggkp   </tspan>
+<tspan x="30" y="90">                    ig!!!!!!!!!!!!!!!g!gn  </tspan>
+<tspan x="30" y="110">                   pg!!!!!!!!!!!!!!!!k=   </tspan>
+<tspan x="30" y="130">                   i!!!!!!!!!!gk!!gigk    </tspan>
+<tspan x="30" y="150">                   i!!!!!!!gggkkkgkkp     </tspan>
+<tspan x="30" y="170">                  sgkgggkkkgg!gkgggk'     </tspan>
+<tspan x="30" y="190">              '=pikkkkgggggggg!!ggk=      </tspan>
+<tspan x="30" y="210">         ======npikgg!!!!!ggkpikgk        </tspan>
+<tspan x="30" y="230">       ==nn===nnpppikg!!!k==              </tspan>
+<tspan x="30" y="250">     pnnppppiiiikiikkikgk!!ini            </tspan>
+<tspan x="30" y="270">    ppk!ipppiiiik!kikgk!g!g               </tspan>
+<tspan x="30" y="290">   npkg!ipiiiikiiggikgggggkkgk            </tspan>
+<tspan x="30" y="310">   pigggpppikikikg!kiigkkiiiii            </tspan>
+<tspan x="30" y="330">  iikg!ippppiiikk!giiikkkiipik            </tspan>
+<tspan x="30" y="350">  pkgggppippppiig!!!!k!gggkkk             </tspan>
+<tspan x="30" y="370"> iikggg! !!!gkipi!!!!kkkkiiipk            </tspan>
+<tspan x="30" y="390"> iiikggg!!!!!!ggg!!!!!kiipipi             </tspan>
+<tspan x="30" y="410"> pikkgggg!!!!!ggg!!!!!!!gpig!g            </tspan>
+<tspan x="30" y="430"> iippig!!!!!gggggg!!!!!!!!gg!ki           </tspan>
+<tspan x="30" y="450"> pi!!!!!!g!!!!!!gggkkkkkgg!!!gkk          </tspan>
+<tspan x="30" y="470">sgg!!!!gg!!!!!!!!!!!!!!ggkkkkkkkkp        </tspan>
+<tspan x="30" y="490">iiipk!!!gkkkkgkk!! !!!!ggkkkkkkkkgk!gki   </tspan>
+<tspan x="30" y="510"> nggkikggggkkggkgkkkiiiipppppppiippnppppn=</tspan>
+</text>
+
+
+
+<text x="430" y="30" fill="#c9d1d9">
+<tspan x="430" y="30">@sumanbiswas</tspan>
+<tspan x="430" y="50">——————</tspan>
+<tspan x="430" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11</tspan>
+<tspan x="430" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">21 years, 4 months, 5 days</tspan>
+<tspan x="430" y="110" class="keyColor">IDE</tspan>: <tspan class="valueColor">Visual Studio Code 1.70.0</tspan>
+
+<tspan x="430" y="150" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">JavaScript, Typescript, Python</tspan>
+<tspan x="430" y="170" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">Bengali, English, Hindi</tspan>
+
+<tspan x="430" y="190" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Games</tspan>: <tspan class="valueColor">Fifa, Assassin's Creed</tspan>
+<tspan x="430" y="210" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">Football, Photography</tspan>
+
+<tspan x="430" y="250" class="keyColor">Tech</tspan>.<tspan class="keyColor">Frontend</tspan>: <tspan class="valueColor">React, NextJS, ReactNative, HTML, CSS, Sass</tspan>
+<tspan x="430" y="270" class="keyColor">Tech</tspan>.<tspan class="keyColor">Databases</tspan>: <tspan class="valueColor">PostgreSQL, Firebase, MongoDB</tspan>
+<tspan x="430" y="290" class="keyColor">Tech</tspan>.<tspan class="keyColor">Backend &amp;&amp; Tools</tspan>: <tspan class="valueColor">NodeJS, GraphQL, Prisma</tspan>
+<tspan x="430" y="310" class="keyColor">Tech</tspan>.<tspan class="keyColor">Web3</tspan>: <tspan class="valueColor">Ethereum, Solidity, Hardhat</tspan>
+
+
+<tspan x="430" y="350" class="keyColor">Contact</tspan>:
+<tspan x="430" y="370">——————</tspan>
+<tspan x="430" y="390" class="keyColor">Email</tspan>: <tspan class="valueColor">hellosumanbiswas@gmail.com</tspan>
+<tspan x="430" y="410" class="keyColor">Website</tspan>: <tspan class="valueColor">https://sumanbiswas.vercel.app/</tspan>
+<tspan x="430" y="430" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">sumanbiswas7</tspan>
+<tspan x="430" y="450" class="keyColor">Instagram</tspan>: <tspan class="valueColor">sumanbiswas7</tspan>
+<tspan x="430" y="510" class="keyColor">Total Commits</tspan>: <tspan class="addColor">405</tspan><tspan> [2022,2021]</tspan>
+</text>
+</svg>
