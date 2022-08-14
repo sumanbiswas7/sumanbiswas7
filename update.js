@@ -94,6 +94,9 @@ function update(uptime, commits, years) {
 }
 
 function write_svg() {
+  /*
+  writes svg file both dark and light mode 
+  */
   const dark_mode_xml = new XMLSerializer().serializeToString(light_document);
   const light_mode_xml = new XMLSerializer().serializeToString(dark_document);
 
