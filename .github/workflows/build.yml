@@ -11,7 +11,7 @@ jobs:
     container: node:16
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repositor
         uses: actions/checkout@v3
       - name: Update svg
         env:
