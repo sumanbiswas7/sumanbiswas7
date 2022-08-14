@@ -13,11 +13,11 @@ const light_document = new DOMParser().parseFromString(light_mode_svg);
 async function get_contributions() {
   /*
   fetches my total contributions and returns it as a number unless catches an error
-   */
+  */
 
   const variables = { user: "sumanbiswas7" };
   const headers = {
-    authorization: "token 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",
+    authorization: process.env.TOKEN,
   };
   const query = `query ($user: String!) {
   user (login: $user) {
@@ -48,7 +48,6 @@ async function get_contributions() {
     return error;
   }
 }
-
 function get_uptime(birthDate) {
   /*
   calculates my age returns string if i am still alive-> "[00] years, [00] months, [00] days"
