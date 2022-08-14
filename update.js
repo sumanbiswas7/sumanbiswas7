@@ -17,7 +17,7 @@ async function get_contributions() {
 
   const variables = { user: "sumanbiswas7" };
   const headers = {
-    authorization: process.env.TOKEN,
+    authorization: "token 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",
   };
   const query = `query ($user: String!) {
   user (login: $user) {
@@ -102,6 +102,7 @@ function write_svg() {
 
   fs.writeFileSync("dark-mode.svg", light_mode_xml);
   fs.writeFileSync("light-mode.svg", dark_mode_xml);
+  console.log("svg written successfully");
 }
 
 overwrite();
