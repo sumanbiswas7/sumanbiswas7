@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-      - name: Update svg
+      - name: Update svg files
         env:
            TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |-

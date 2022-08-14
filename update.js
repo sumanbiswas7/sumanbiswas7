@@ -17,7 +17,7 @@ async function get_contributions() {
 
   const variables = { user: "sumanbiswas7" };
   const headers = {
-    authorization: process.env.TOKEN,
+    authorization: `token ${process.env.TOKEN}`,
   };
   const query = `query ($user: String!) {
   user (login: $user) {
