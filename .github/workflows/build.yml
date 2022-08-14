@@ -12,12 +12,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-      - run: node --version
-      - run: npm --version
-      - uses: actions/checkout@v3
-      - run: npm install
-      - run: node update.js
-      - name: Commit
+        run: node --version
+        run: npm --version
+        uses: actions/checkout@v3
+        run: npm install
+        run: node update.js
+      - name: Commit changes
         run: |-
           git add .
           git diff
