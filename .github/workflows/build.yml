@@ -9,11 +9,15 @@ jobs:
   build-node:
     runs-on: ubuntu-latest
     container: node:16
+    env:
+      ACCESS_TOKEN: token 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
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
       - name: Update svg
+        env:
+           TOKEN: ${{ env.ACCESS_TOKEN }}
         run: |-
            node --version
            npm --version
