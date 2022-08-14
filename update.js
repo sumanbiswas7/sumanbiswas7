@@ -84,7 +84,7 @@ async function overwrite() {
 function update(uptime, commits, years) {
   /*
     updates both dark-mode-svg and light-mode-svg in dom
-    */
+  */
   dark_document.getElementsByTagName("tspan")[30].textContent = uptime;
   dark_document.getElementsByTagName("tspan")[68].textContent = commits;
   // dark_document.getElementsByTagName("tspan")[69].textContent = ` ${years}`;
