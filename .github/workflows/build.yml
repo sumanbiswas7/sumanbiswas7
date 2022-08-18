@@ -17,6 +17,8 @@ jobs:
         env:
           TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |-
+          persist-credentials: false
+          fetch-depth: 0
           node --version
           npm --version
           npm install
