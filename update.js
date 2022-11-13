@@ -76,7 +76,7 @@ async function overwrite() {
     overwrites both dark-mode-svg and light-mode-svg 
     */
   const { uptime, totalContributions, years } = await get_all_data();
-  update(uptime, totalContributions + 55, years);
+  update(uptime, totalContributions + 56, years);
   write_svg();
 }
 
