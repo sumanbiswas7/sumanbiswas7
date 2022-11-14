@@ -19,6 +19,7 @@ async function get_contributions() {
   const headers = {
     authorization: `token ${process.env.TOKEN}`,
   };
+
   const query = `query ($user: String!) {
   user (login: $user) {
     contributionsCollection {
@@ -48,6 +49,7 @@ async function get_contributions() {
     return error;
   }
 }
+
 function get_uptime(birthDate) {
   /*
   calculates my age returns string if i am still alive-> "[00] years, [00] months, [00] days"
@@ -76,7 +78,8 @@ async function overwrite() {
     overwrites both dark-mode-svg and light-mode-svg 
     */
   const { uptime, totalContributions, years } = await get_all_data();
-  update(uptime, totalContributions + 56, years);
+
+  update(uptime, totalContributions + 55, years);
   write_svg();
 }
 
