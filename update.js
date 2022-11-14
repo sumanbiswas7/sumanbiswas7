@@ -104,7 +104,7 @@ function write_svg() {
 
   fs.writeFileSync("dark-mode.svg", light_mode_xml);
   fs.writeFileSync("light-mode.svg", dark_mode_xml);
-  console.log("svg written successfully");
+  console.log("success: svg written successfully");
 }
 
 overwrite();
