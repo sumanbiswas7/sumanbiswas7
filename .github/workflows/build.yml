@@ -23,6 +23,7 @@ jobs:
           node update.js
       - name: Commit and push changes
         run: |-
+          git config --global --add safe.directory /__w/sumanbiswas7/sumanbiswas7
           git add .
           git diff
           git config --global user.email "ronaldosuman97@gmail.com"
