@@ -46,6 +46,7 @@ async function get_contributions() {
 
     return { totalContributions, years };
   } catch (error) {
+    console.log(error);
     return error;
   }
 }
@@ -88,11 +89,11 @@ function update(uptime, commits, years) {
   */
   dark_document.getElementsByTagName("tspan")[30].textContent = uptime;
   dark_document.getElementsByTagName("tspan")[68].textContent = commits;
-  // dark_document.getElementsByTagName("tspan")[69].textContent = ` ${years}`;
+  dark_document.getElementsByTagName("tspan")[69].textContent = ` [${years}]`;
 
   light_document.getElementsByTagName("tspan")[30].textContent = uptime;
   light_document.getElementsByTagName("tspan")[68].textContent = commits;
-  // light_document.getElementsByTagName("tspan")[69].textContent = ` ${years}`;
+  light_document.getElementsByTagName("tspan")[69].textContent = ` [${years}]`;
 }
 
 function write_svg() {

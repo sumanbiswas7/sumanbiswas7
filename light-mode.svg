@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="16px">
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="900px" height="550px" font-size="14px">
 <style>
-.ascii{font-size:13px;}
-.keyColor {fill: #953800;}
-.valueColor {fill: #0a3069;}
-.addColor {fill: #1a7f37;}
-.delColor {fill: #cf222e;}
+.ascii{font-size:14px;}
+.keyColor {fill: #0055A4;}
+.valueColor {fill: #AA110A ;}
+.addColor {fill: #296800 ;}
+.delColor {fill: #FF602E;}
 .commentColor {fill: #8b949e;}
 text, tspan {white-space: pre;}
 </style>
 
-<rect width="970px" height="530px" fill="#f6f8fa" rx="15"/>
+<rect width="900px" height="530px" fill="#D4D4D4" rx="15"/>
 
-<text x="30" y="30" fill="#333333" class="ascii">
+<text x="30" y="30" fill="#1d1d1d" class="ascii">
 <tspan x="30" y="30">                        iikkkikki          </tspan>  
 <tspan x="30" y="50">                      ikg!!gggggggggi      </tspan>
 <tspan x="30" y="70">                     kg!!!!!!!gg!!ggggkp   </tspan>
@@ -42,22 +42,22 @@ text, tspan {white-space: pre;}
 
 
 <text x="400" y="30" fill="#333333">
-<tspan x="400" y="30">@sumanbiswas</tspan>
+<tspan x="400" y="30">@sumanbiswas7</tspan>
 <tspan x="400" y="50">——————</tspan>
 <tspan x="400" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11</tspan>
 <tspan x="400" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">21 years, 10 months, 26 days</tspan>
-<tspan x="400" y="110" class="keyColor">IDE</tspan>: <tspan class="valueColor">Visual Studio Code 1.70.0</tspan>
+<tspan x="400" y="110" class="keyColor">IDE</tspan>: <tspan class="valueColor">Visual Studio Code 1.75.0</tspan>
 
-<tspan x="400" y="150" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">JavaScript, Typescript, Python</tspan>
+<tspan x="400" y="150" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">TypeScript, JavaScript, Python</tspan>
 <tspan x="400" y="170" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">Bengali, English, Hindi</tspan>
 
 <tspan x="400" y="190" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Games</tspan>: <tspan class="valueColor">Fifa, Assassin's Creed</tspan>
 <tspan x="400" y="210" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">Football, Photography</tspan>
 
-<tspan x="400" y="250" class="keyColor">Tech</tspan>.<tspan class="keyColor">Frontend</tspan>: <tspan class="valueColor">React, NextJS, ReactNative, HTML, CSS, Sass</tspan>
-<tspan x="400" y="270" class="keyColor">Tech</tspan>.<tspan class="keyColor">Databases</tspan>: <tspan class="valueColor">PostgreSQL, Firebase, MongoDB</tspan>
-<tspan x="400" y="290" class="keyColor">Tech</tspan>.<tspan class="keyColor">Backend &amp;&amp; Tools</tspan>: <tspan class="valueColor">NodeJS, GraphQL, Prisma</tspan>
-<tspan x="400" y="310" class="keyColor">Tech</tspan>.<tspan class="keyColor">Web3</tspan>: <tspan class="valueColor">Ethereum, Solidity, Hardhat</tspan>
+<tspan x="400" y="250" class="keyColor">Tech</tspan>.<tspan class="keyColor">Frontend</tspan>: <tspan class="valueColor">ReactJS, NextJS, ReactNative, HTML, CSS, Sass</tspan>
+<tspan x="400" y="290" class="keyColor">Tech</tspan>.<tspan class="keyColor">Databases</tspan>: <tspan class="valueColor">PostgreSQL, MongoDB, Firebase</tspan>
+<tspan x="400" y="270" class="keyColor">Tech</tspan>.<tspan class="keyColor">Backend &amp;&amp; Tools</tspan>: <tspan class="valueColor">NodeJS, GraphQL, Prisma, Webpack</tspan>
+<tspan x="400" y="310" class="keyColor">Tech</tspan>.<tspan class="keyColor">AWS</tspan>: <tspan class="valueColor">EC2, Lambda, S3, RDS, API Gateway</tspan>
 
 
 <tspan x="400" y="350" class="keyColor">Contact</tspan>:
@@ -66,6 +66,6 @@ text, tspan {white-space: pre;}
 <tspan x="400" y="410" class="keyColor">Website</tspan>: <tspan class="valueColor">https://sumanbiswas.vercel.app/</tspan>
 <tspan x="400" y="430" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">sumanbiswas7</tspan>
 <tspan x="400" y="450" class="keyColor">Instagram</tspan>: <tspan class="valueColor">sumanbiswas7</tspan>
-<tspan x="400" y="510" class="keyColor">Total Commits</tspan>: <tspan class="addColor">1221</tspan><tspan> [2022,2021]</tspan>
+<tspan x="400" y="510" class="keyColor">Total Commits</tspan>: <tspan class="addColor">1228</tspan><tspan> [2023,2022,2021]</tspan>
 </text>
 </svg>
